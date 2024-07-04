@@ -1,2 +1,2 @@
 # erum
-class 4..
+class 4...
